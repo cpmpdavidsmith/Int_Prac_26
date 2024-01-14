@@ -1,0 +1,15 @@
+/Users/davidsmith/Desktop/Repos/Int_Pra_26_SortedList/Int_Pra_26_SortedList/bin/Debug/net7.0/Int_Pra_26_SortedList
+/Users/davidsmith/Desktop/Repos/Int_Pra_26_SortedList/Int_Pra_26_SortedList/bin/Debug/net7.0/Int_Pra_26_SortedList.deps.json
+/Users/davidsmith/Desktop/Repos/Int_Pra_26_SortedList/Int_Pra_26_SortedList/bin/Debug/net7.0/Int_Pra_26_SortedList.runtimeconfig.json
+/Users/davidsmith/Desktop/Repos/Int_Pra_26_SortedList/Int_Pra_26_SortedList/bin/Debug/net7.0/Int_Pra_26_SortedList.dll
+/Users/davidsmith/Desktop/Repos/Int_Pra_26_SortedList/Int_Pra_26_SortedList/bin/Debug/net7.0/Int_Pra_26_SortedList.pdb
+/Users/davidsmith/Desktop/Repos/Int_Pra_26_SortedList/Int_Pra_26_SortedList/obj/Debug/net7.0/Int_Pra_26_SortedList.csproj.AssemblyReference.cache
+/Users/davidsmith/Desktop/Repos/Int_Pra_26_SortedList/Int_Pra_26_SortedList/obj/Debug/net7.0/Int_Pra_26_SortedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidsmith/Desktop/Repos/Int_Pra_26_SortedList/Int_Pra_26_SortedList/obj/Debug/net7.0/Int_Pra_26_SortedList.AssemblyInfoInputs.cache
+/Users/davidsmith/Desktop/Repos/Int_Pra_26_SortedList/Int_Pra_26_SortedList/obj/Debug/net7.0/Int_Pra_26_SortedList.AssemblyInfo.cs
+/Users/davidsmith/Desktop/Repos/Int_Pra_26_SortedList/Int_Pra_26_SortedList/obj/Debug/net7.0/Int_Pra_26_SortedList.csproj.CoreCompileInputs.cache
+/Users/davidsmith/Desktop/Repos/Int_Pra_26_SortedList/Int_Pra_26_SortedList/obj/Debug/net7.0/Int_Pra_26_SortedList.dll
+/Users/davidsmith/Desktop/Repos/Int_Pra_26_SortedList/Int_Pra_26_SortedList/obj/Debug/net7.0/refint/Int_Pra_26_SortedList.dll
+/Users/davidsmith/Desktop/Repos/Int_Pra_26_SortedList/Int_Pra_26_SortedList/obj/Debug/net7.0/Int_Pra_26_SortedList.pdb
+/Users/davidsmith/Desktop/Repos/Int_Pra_26_SortedList/Int_Pra_26_SortedList/obj/Debug/net7.0/Int_Pra_26_SortedList.genruntimeconfig.cache
+/Users/davidsmith/Desktop/Repos/Int_Pra_26_SortedList/Int_Pra_26_SortedList/obj/Debug/net7.0/ref/Int_Pra_26_SortedList.dll
